@@ -13,7 +13,7 @@ This staging area is the place where git knows what changes will be done from th
 
 7. Commit → Commit is a particular version of the project. It captures a snapshot of the project's staged changes and creates a version out of it.  
  `
-8. `git commit → register staging changes to a commit
+8. `git commit → register staging changes to a commit.
 
 9. `git log` -> list down all the commits of the repository. 
 
