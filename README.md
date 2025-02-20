@@ -41,3 +41,12 @@ ans: if you want to move the whole file back in the untracked state, then we do 
 20. `git add <file1> <file2> <file3>`: this command will add multiple file changes together in the staging area
 
 21. `git add .`: this command will add all files from working repo to staging area.
+
+22. `git pull <remote name> <branch name>`: downloads latest changes from the branch of the mentioned remote in your local repo.
+
+###Recommended practice1 to do
+  -make changes
+  -git add <file>
+  -git commit
+  -git pull
+  -git push
