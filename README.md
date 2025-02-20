@@ -51,4 +51,6 @@ ans: if you want to move the whole file back in the untracked state, then we do 
   -git pull
   -git push
 
+23. merge conflict are a very common scenario
+
 merge conflict can occur if multiple people try to make changes to the same file, and then collaborate
