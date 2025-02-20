@@ -50,3 +50,5 @@ ans: if you want to move the whole file back in the untracked state, then we do 
   -git commit
   -git pull
   -git push
+
+23. merge conflict are a very common scenario
