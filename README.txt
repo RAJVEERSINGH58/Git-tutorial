@@ -19,3 +19,4 @@ This staging area is the place where git knows what changes will be done from th
 
 10. git restore <file> → it removes all files changes from the staging area to be committed. This can be useful, if we did some dirty piece of code and now no more want it. Instead of deleting every change line by line, we can restore it or you can say restore last clean version of the file.
 
+11. git restore --staged <file> → it removes file from changes from staging area to the working area. This only works if changes are in your staging area.
