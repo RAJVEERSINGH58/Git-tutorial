@@ -40,4 +40,4 @@ ans: if you want to move the whole file back in the untracked state, then we do 
 
 20. `git add <file1> <file2> <file3>`: this command will add multiple file changes together in the staging area
 
-21. `git add .`: this command will add all files from working repo to staging area
+21. `git add .`: this command will add all files from working repo to staging area.
